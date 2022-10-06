@@ -1,0 +1,23 @@
+.marinfordaf-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 90vw;
+    height: fit-content;
+    gap: 50px;
+}
+
+.marinfordaf-page p{
+    margin-top: 50px;
+    font-size: 4em;
+    color: #fff;
+    letter-spacing: 15px;
+}
+
+.marinfordaf-page h1{
+    font-size: 8em;
+    color: #ccf919;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,24 @@
+.zerafonts_aristotelica-page{
+    backdrop-filter: blur(100vw);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100vw;
+    height: fit-content;
+    gap: 50px;
+}
+
+.zerafonts_aristotelica-page p{
+    margin-top: 50px;
+    font-size: 5em;
+    color: #fff;
+    letter-spacing: 15px;
+}
+
+.zerafonts_aristotelica-page h1{
+    font-size: 8em;
+    color: #ccf919;
+    margin-bottom: 50px;
+}

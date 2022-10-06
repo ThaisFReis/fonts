@@ -1,0 +1,16 @@
+.Roclette{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 50px;
+}
+
+.Roclette p{
+    margin-top: 50px;
+    font-size: 5em;
+    color: #fff;
+    letter-spacing: 15px;
+}

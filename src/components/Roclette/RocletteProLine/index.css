@@ -1,0 +1,24 @@
+.rocletteproline-page{
+    backdrop-filter: blur(100vw);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100vw;
+    height: fit-content;
+    gap: 50px;
+}
+
+.rocletteproline-page p{
+    margin-top: 50px;
+    font-size: 5em;
+    color: #fff;
+    letter-spacing: 15px;
+}
+
+.rocletteproline-page h1{
+    font-size: 10em;
+    color: #ccf919;
+    margin-bottom: 50px;
+}

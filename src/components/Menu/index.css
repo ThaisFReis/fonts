@@ -1,0 +1,14 @@
+.menu{
+    width: 100vw;
+    height: 8vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.menu .icon{
+    font-size: 45px;
+    color: #fff;
+    margin-left: 10px;
+}

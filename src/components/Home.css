@@ -1,0 +1,46 @@
+*{
+    background-image: rgb(17, 17, 17);
+}
+
+Body{
+    background-image: rgb(17, 17, 17);
+}
+
+.home{
+    background-image: rgb(17, 17, 17);
+    width: 100vw;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+h1{
+    font-size: 8em;
+    color: #ccf919;
+    font-family: 'Dosis', sans-serif;
+    margin-top: 50px;
+}
+
+.home-links{
+    width: 100vw;
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+p{
+    font-size: 4em;
+    color: #fff;
+}
+
+/*
+Verde -> #ccf919
+Rosa -> #f0379a
+*/
